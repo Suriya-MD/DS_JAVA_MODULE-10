@@ -1,7 +1,7 @@
 # Ex24 Shortest Path and Reachability in a Heritage Town using BFS
 ## DATE:
 ## AIM:
-To design and implement a Python program that, given a map of attractions in a heritage town connected by walking paths, recommends:
+To design and implement a java program that, given a map of attractions in a heritage town connected by walking paths, recommends:
 The shortest number of paths (minimum hops) from a starting attraction to a target attraction.
 The number of reachable attractions from the same starting point using Breadth-First Search (BFS)
 
